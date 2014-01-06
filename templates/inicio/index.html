@@ -2,8 +2,33 @@
 <head>
     <title>inicio</title>
     <link rel="stylesheet" href="{{ STATIC_URL }}css/style.css"/>
+    <!--Bootstrap-->
+    <link href="{{ STATIC_URL }}css/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
-Primera vista simple Django 1.5
+<div class="container">
+    {% if user.is_authenticated %}
+        <label>Bienvenido:{{ user.username|capfirst }}</label>
+        <a href="/cerrar/">Salir</a>
+    {% else %}
+        <form method="POST" class="form-sigin">
+            {% csrf_token %}
+            <h2 class="form-signin-heading">Please sign in</h2>
+
+            <label for="inputEmail">Usuario</label>
+            <input class="form-control" name="username" type="text" id="inputEmail" placeholder="Usuario"/>
+
+            <label for="inputPassword">Clave</label>
+            <input class="form-control" name="password" id="inputPassword" type="password" placeholder="Clave"/>
+
+            <input class="btn btn-lg btn-primary btn-block" type="submit" value="Ingresar"/>
+
+        </form>
+    {% endif %}
+</div>
 </body>
 </html>

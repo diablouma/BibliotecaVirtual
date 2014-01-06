@@ -1,8 +1,9 @@
-from django.conf.urls import patterns, include, url
-from apps.inicio.views import Index
-from .views import Index2
+from django.conf.urls import patterns, url
 
 urlpatterns = patterns('',
-    url(r'^$', Index.as_view()),
-    url(r'^index/$', Index2.as_view()),
+                       url(r'^$', 'django.contrib.auth.views.login',
+                           {'template_name': 'inicio/index.html'}, name='login'),
+
+                       url(r'^cerrar/$', 'django.contrib.auth.views.logout_then_login',
+                           name='logout')
 )
