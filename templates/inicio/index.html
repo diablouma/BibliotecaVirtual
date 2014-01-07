@@ -1,16 +1,5 @@
-<html>
-<head>
-    <title>inicio</title>
-    <link rel="stylesheet" href="{{ STATIC_URL }}css/style.css"/>
-    <!--Bootstrap-->
-    <link href="{{ STATIC_URL }}css/bootstrap.min.css" rel="stylesheet">
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-</head>
-<body>
-<div class="container">
+{% extends 'base.html' %}
+{% block content %}
     {% if user.is_authenticated %}
         <label>Bienvenido:{{ user.username|capfirst }}</label>
         <a href="/cerrar/">Salir</a>
@@ -27,8 +16,8 @@
 
             <input class="btn btn-lg btn-primary btn-block" type="submit" value="Ingresar"/>
 
+            <a href="/registrarse">Registrarse</a>
+
         </form>
     {% endif %}
-</div>
-</body>
-</html>
+{% endblock %}
