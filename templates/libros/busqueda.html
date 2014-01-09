@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Busqueda
+{% endblock %}
+
+{% block content %}
+    <select>
+        <option>Elige un autor</option>
+        {% for autor in autores %}
+            <option value="{{ autor.id }}">{{ autor.nombre }}</option>
+        {% endfor %}
+    </select>
+
+    <div id="datos">
+
+    </div>
+{% endblock %}
+
+{% block js %}
+    <script>
+        $('select').on('change', inicio);
+
+        function inicio() {
+            var id = $(this).val()
+            $.ajax({
+                data: {'id': id},
+                //a esta vista se manda el id
+                url: '/libros/busqueda_ajax/',
+                type: 'get',
+                success: function (data) {
+                    var html = ""
+                    for (var i = 0; i < data.length; i++) {
+                        html += '<ul><li>' + data[i].fields.nombre + '</li>'
+                        html += '<li>' + data[i].fields.resumen + '</li>'
+                        html += '</ul>'
+                    }
+                    $('#datos').html(html)
+                }
+            });
+        }
+
+
+    </script>
+{% endblock %}

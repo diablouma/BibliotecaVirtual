@@ -10,8 +10,12 @@
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
 <body>
+<div>
+    <a href="libros/busqueda">Buscar</a>
+</div>
 <div class="busqueda">
     <form class="navbar-search pull-left" action="/libros/buscar/" method="POST">
         {% csrf_token %}
@@ -26,6 +30,8 @@
 </div>
 {% block content %}
 
+{% endblock %}
+{% block js %}
 {% endblock %}
 </body>
 </html>
