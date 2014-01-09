@@ -30,87 +30,27 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/inicio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="504">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/inicio/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registrarse.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/inicio/registrarse.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="66" selection-start="237" selection-end="237" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="324">
+            <state line="21" column="15" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="504">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/inicio/models.py">
+        <entry file="file://$PROJECT_DIR$/apps/libros/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="36" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+            <state line="10" column="26" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="342">
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <marker date="1389148337102" expanded="true" signature="95:339" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/inicio/admin.py">
+        <entry file="file://$PROJECT_DIR$/apps/libros/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-              <folding>
-                <marker date="1389063675716" expanded="true" signature="0:72" placeholder="import ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/inicio/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.2032258" vertical-offset="0" max-vertical-offset="620">
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registrarAutor.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/autores/registrarAutor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="378">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reportarAutor.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/autores/reportarAutor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="41" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+            <state line="3" column="24" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
               <folding />
             </state>
           </provider>
@@ -119,7 +59,43 @@
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="540" selection-end="540" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="432">
+            <state line="17" column="40" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="648">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/libros/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="62" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buscar.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/libros/buscar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="28" selection-start="517" selection-end="517" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="642">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/libros/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="72" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="594">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/inicio/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="43" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="324">
               <folding />
             </state>
           </provider>
@@ -135,30 +111,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/apps/autores/models.py" />
-        <option value="$PROJECT_DIR$/apps/autores/urls.py" />
-        <option value="$PROJECT_DIR$/BibliotecaVirtual/urls.py" />
-        <option value="$PROJECT_DIR$/apps/autores/views.py" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
-        <option value="$PROJECT_DIR$/templates/autores/reportarAutor.html" />
         <option value="$PROJECT_DIR$/templates/autores/registrarAutor.html" />
-        <option value="$PROJECT_DIR$/BibliotecaVirtual/settings.py" />
         <option value="$PROJECT_DIR$/apps/inicio/urls.py" />
         <option value="$PROJECT_DIR$/apps/inicio/models.py" />
         <option value="$PROJECT_DIR$/apps/inicio/admin.py" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/inicio/index.html" />
         <option value="$PROJECT_DIR$/templates/inicio/registrarse.html" />
         <option value="$PROJECT_DIR$/apps/inicio/views.py" />
         <option value="$PROJECT_DIR$/apps/inicio/forms.py" />
+        <option value="$PROJECT_DIR$/BibliotecaVirtual/settings.py" />
+        <option value="$PROJECT_DIR$/apps/libros/models.py" />
+        <option value="$PROJECT_DIR$/apps/libros/admin.py" />
+        <option value="$PROJECT_DIR$/BibliotecaVirtual/urls.py" />
+        <option value="$PROJECT_DIR$/apps/libros/urls.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/apps/libros/views.py" />
+        <option value="$PROJECT_DIR$/templates/libros/buscar.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="800" />
     <option name="y" value="27" />
-    <option name="width" value="777" />
-    <option name="height" value="873" />
+    <option name="width" value="801" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -186,7 +162,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,6 +191,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BibliotecaVirtual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BibliotecaVirtual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libros" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,6 +358,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="libros" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BibliotecaVirtual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BibliotecaVirtual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="inicio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -403,6 +414,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -669,15 +681,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="27" width="777" height="873" extended-state="4" />
-    <editor active="true" />
+    <frame x="800" y="27" width="801" height="874" extended-state="4" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26337448" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27755645" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -724,121 +736,109 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/templates/autores/reportarAutor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144" />
+        <state line="5" column="41" selection-start="132" selection-end="132" vertical-scroll-proportion="0.1380368" vertical-offset="0" max-vertical-offset="652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/inicio/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/inicio/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inicio/registrarse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="66" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../unomasENV/local/lib/python2.7/site-packages/django/contrib/auth/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="6" selection-start="2340" selection-end="2340" vertical-scroll-proportion="0.33278418" vertical-offset="590" max-vertical-offset="6606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/inicio/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BibliotecaVirtual/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="31" selection-start="5039" selection-end="5039" vertical-scroll-proportion="0.0" vertical-offset="2172" max-vertical-offset="3222">
+        <state line="135" column="18" selection-start="4812" selection-end="4812" vertical-scroll-proportion="0.58625954" vertical-offset="2046" max-vertical-offset="3240">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/autores/urls.py">
+    <entry file="file://$PROJECT_DIR$/apps/libros/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="49" selection-start="312" selection-end="312" vertical-scroll-proportion="0.20512821" vertical-offset="0" max-vertical-offset="702">
+        <state line="10" column="26" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+          <folding>
+            <marker date="1389148337102" expanded="true" signature="95:339" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inicio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="15" selection-start="843" selection-end="843" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="504">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/BibliotecaVirtual/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="36144" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128214">
+        <state line="29" column="31" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.82725835" vertical-offset="0" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/inicio/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/inicio/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding>
-            <marker date="1389063675716" expanded="true" signature="0:72" placeholder="import ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="644">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/autores/registrarAutor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="19" selection-start="224" selection-end="224" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="378">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/autores/reportarAutor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="132" selection-end="132" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inicio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
+        <state line="10" column="43" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="540" selection-end="540" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="432">
+        <state line="17" column="40" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/inicio/models.py">
+    <entry file="file://$PROJECT_DIR$/apps/libros/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="36" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/inicio/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/inicio/registrarse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="66" selection-start="237" selection-end="237" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="324">
+        <state line="4" column="62" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/inicio/forms.py">
+    <entry file="file://$PROJECT_DIR$/apps/libros/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="172" selection-end="172" vertical-scroll-proportion="0.2032258" vertical-offset="0" max-vertical-offset="620">
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
+        <state line="3" column="24" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/libros/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="72" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/libros/buscar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="28" selection-start="517" selection-end="517" vertical-scroll-proportion="0.5607477" vertical-offset="0" max-vertical-offset="642">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -133,6 +133,7 @@ INSTALLED_APPS = (
     #My apps
     'apps.inicio',
     'apps.autores',
+    'apps.libros',
 )
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'

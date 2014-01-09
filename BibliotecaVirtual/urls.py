@@ -26,4 +26,7 @@ urlpatterns = patterns('',
 
                        #AUTORES
                        url(r'^autor/', include('apps.autores.urls')),
+
+                        #LIBROS
+                       url(r'^libros/', include('apps.libros.urls')),
 )
